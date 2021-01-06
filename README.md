@@ -1,7 +1,7 @@
 # Go Sms Pro
 
 ## introduction
-This repo exposes the go sms pro secury issues, generating random media links of private shared media in their platform.
+This repo exposes GoSmsPro secury issues, generating random media links of private shared media in their platform.
 
 [Read here for more](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/go-sms-pro-vulnerable-to-media-file-theft/).
 
