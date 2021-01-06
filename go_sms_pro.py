@@ -28,13 +28,16 @@ class goSmsPro:
                 temp.append(f"http://gs.3g.cn/D/{''.join(element)}/a")
         return temp
 
+    def print_link(self, link):
+        print(f"Link generated -> {link}")
+
     def open_random_link(self):
         """
         method to open a generated
         link in a web browser
         """
         link = choice(self.all_ids)
-        print(f"Link generated -> {link}")
+        self.print_link(link)
         os.popen(f"{self.start_command} {link}")
 
     def open_links_loop(self):
