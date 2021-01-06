@@ -1,4 +1,4 @@
-# this script is to demonstrate how insecure
+# this script demonstrates how insecure
 # GO SMS PRO is in their way to share media
 # in their platform
 
